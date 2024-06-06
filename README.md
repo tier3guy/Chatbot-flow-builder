@@ -50,10 +50,8 @@ Live Demo: https://chatbot-flow-builder-teal.vercel.app/
 ## Project Structure
 
 -   `components/`: Contains the UI components like `NodesPanel`, `SettingsPanel`, and `SaveButton`.
--   `context/`: Contains the `AppContext` for state management.
+-   `providers/`: Contains the `AppContext` for state management.
 -   `pages/`: Contains the Next.js pages, including the main `index.tsx` page.
--   `styles/`: Contains global styles.
--   `types/`: Contains TypeScript type definitions.
 
 ## Contributing
 
