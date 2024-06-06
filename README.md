@@ -2,6 +2,8 @@
 
 This project is a Chatbot Flow Builder application built with Next.js, TypeScript, Tailwind CSS, shadcn, and React Flow. The application allows users to visually build and manage chatbot conversation flows.
 
+Live Demo: https://chatbot-flow-builder-teal.vercel.app/
+
 ## Features
 
 -   **Node Management**: Add, update, and connect nodes representing chatbot steps.
